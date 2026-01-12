@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me<br><br>🔭 Aspiring Cloud & DevOps Engineer focused on strengthening my technical foundation<br>🌱 Actively learning AWS, Linux, Shell scripting, and DevOps tools<br>🤝 Looking for guidance, mentorship, and entry-level opportunities in Cloud / DevOps<br>💬 Ask me about Linux, AWS basics, or FPS games — I love them<br>⚡ Fun fact: I enjoy experimenting with AI (even when it misbehaves 😄)
+💫 About Me<br><br>🔭 Aspiring Cloud & DevOps Engineer focused on strengthening my technical foundation<br>🌱 Actively learning AWS, Linux, Shell scripting, and DevOps tools<br>🤝 Looking for guidance, mentorship, and entry-level opportunities in Cloud / DevOps<br>💬 Ask me about Linux, AWS basics, or FPS games — I love them<br>
 
 
 ## 🌐 Socials:
